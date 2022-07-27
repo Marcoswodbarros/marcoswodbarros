@@ -1,7 +1,9 @@
-### Olá! Eu sou o Marcos Barros 👋
+### Hey! Welcome to my profile! 👋
 
-- 🔭 Hoje trabalho com administração. Porém, estou buscando uma oportunidade no mundo Front-End.
-- 🌱 Estudando React.
+- My name is Marcos Wagner Oliveira de Barros;
+- I'm 27 years old;
+- Brazilian;
+- Front-End Developer (HTML, CSS, JS).
 
 <div align="center">
   <a href="https://github.com/marcoswodbarros">
