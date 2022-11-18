@@ -1,15 +1,13 @@
-### Hey! Welcome to my profile! 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-- My name is Marcos Wagner Oliveira de Barros;
-- I'm 27 years old;
-- Brazilian;
-- Front-End Developer.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Marcos+Barros;I'm+a+Front-End+Developer+from+Brazil;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
 
-<div align="center">
-  <a href="https://github.com/marcoswodbarros">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoswodbarros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoswodbarros&layout=compact&langs_count=7&theme=dark"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marcoswodbarros&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Marcos Barros GitHub stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoswodbarros&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=marcoswodbarros&theme=gotham&hide_border=true&area=true)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
