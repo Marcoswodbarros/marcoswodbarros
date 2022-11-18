@@ -3,7 +3,7 @@
 - My name is Marcos Wagner Oliveira de Barros;
 - I'm 27 years old;
 - Brazilian;
-- Front-End Developer (HTML, CSS, JS).
+- Front-End Developer.
 
 <div align="center">
   <a href="https://github.com/marcoswodbarros">
